@@ -1,0 +1,11 @@
+Buenas tardes, profesor:
+
+Le escribo para mencionar algunos detalles e inconvenientes que enfrenté al realizar ciertos apartados de la tarea.
+
+En primer lugar, aún tengo dificultades con el manejo del centrado de los elementos div. Hice lo mejor que pude utilizando combinaciones de padding y las IDs para lograr un centrado aproximado.
+
+Por otro lado, notará que el resultado final difiere del mockup. Esto se debe a que todavía no sé cómo implementar correctamente una imagen con texto a su lado. Intenté varios métodos, pero, para no adelantarme a temas que aún no hemos visto y evitar improvisaciones excesivas, decidí ajustar el estilo para adaptarlo al diseño que puede ver en el resultado final.
+
+Agradezco su comprensión y estaré atento a cualquier observación o recomendación.
+
+Saludos cordiales
