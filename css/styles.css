@@ -1,0 +1,64 @@
+/*CSS genreal ementos*/
+*{
+    margin: 0px;
+    padding: 0px;
+}
+body{ 
+    position: absolute; 
+    background-color: #333333;
+    color: #333333;
+    font-family: "Montserrat", serif;
+}
+/*CSS IDs y Clases*/
+#card{
+    padding: 100px 650px;
+}
+#aboutme{
+    background-color: white;
+}
+#aboutme-img{
+    padding-left: 200px;
+    padding-top: 5px;
+}
+#aboutme-name{
+    padding-left: 165px;
+    color: #003300;
+}
+#aboutme-description{
+    padding-left: 70px;
+    font-style: italic;
+    font-weight: 500;
+}
+#uda-logo{
+    padding-left: 260px;
+    padding-top: 10px;
+}
+#uda-name{
+    padding-left: 170px;
+    padding-bottom: 10px;
+    font-weight: 700;
+    color: #003300;
+}
+#contact{
+    font-weight: 700;
+    background-color: white;
+}
+.border-top-green{
+    border-top: 3px solid #123524;
+}
+.icon-contact{
+    padding-left: 250px;
+    padding-top: 10px;
+}
+#text-mail{
+    padding-left: 140px;
+    padding-bottom: 5px; 
+}
+#text-whatsapp{
+    padding-left: 210px;
+    padding-bottom: 5px; 
+}
+#text-location{
+    padding-left: 210px;
+    padding-bottom: 5px; 
+}
